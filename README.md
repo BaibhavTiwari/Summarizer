@@ -17,7 +17,7 @@ You will also need to sign up for a RapidAPI account and get your API key for th
 ## Using the Application
 
 Create a new .env file in the root folder of the project and add the fallowing line in it.
-`VITE_RAPID_API_ARTICLE_KEY = "enter your api key"`
+`VITE_RAPID_API_ARTICLE_KEY = "enter your api key"` and replace the `"enter your api key"` with your api key.
 
 To use the application, start the development server using the following command:
 
